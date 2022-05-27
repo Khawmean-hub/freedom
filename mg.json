@@ -9,5 +9,5 @@
   "alert" : false,
   "alert_msg": "Hello everyone",
   "phone": "097 273 8210",
-  "server": false
+  "server": true
 }
