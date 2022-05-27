@@ -5,7 +5,7 @@
   "facebook": "https://www.facebook.com/mean.khaw8/",
   "telegram": "https://t.me/Khaw_mean",
   "version": "1.3.0",
-  "update": false,
+  "update": true,
   "alert" : false,
   "alert_msg": "Hello everyone",
   "phone": "097 273 8210",
