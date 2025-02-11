@@ -4,14 +4,14 @@
             "roomNm": "907",
             "schedules": [
                 {
-                    "runOn": [
-                        "month-1,week-1,day-1"
-                    ],
-                    "name": "Daily Trash Takeout",
-                    "description": "📢 <b>សួស្តី Khaw(@mean_khaw)</b>\\nថ្ងៃនេះ ជាវេនរបស់អ្នក៖\\n\\n- 🗑 <b>យកសំរាមទាំងអស់ទៅចោល</b>\\n- 🍂 <b>បើមាន សំរាមសើម យកទៅចោល</b>\\n- 🔄 <b>ប្តូរថង់សំរាម សម្រាប់ធុងសំរាម</b>\\n- 👕 <b>បោកសំលៀកបំពាក់</b>\\n\\n🙏 <i>សូមអរគុណ ចំពោះកិច្ចសហការ។</i>",
-                    "botKey": "8055500326:AAGMhu_ZoDJOyGaZJneFmmA0O5HeGlxk9YI",
-                    "chatId": "-1002007811632"
-                }
+    "runOn": [
+        "month-2,week-3,day-2"
+    ],
+    "name": "Daily Trash Takeout",
+    "description": "Testing\n🧹 <b>វេនសំអាតបន្ទប់ទទួលភ្ញៀវ</b> 🧹\n\nសួស្តី <b>Metra(@metrayim)</b>\nចុងសប្តាហ៏នេះ ជាវេនរបស់អ្នក សំអាតបន្ទប់ទទួលភ្ញៀវ៖\n\n- 🧹 <b>បឹតធូលី ពីកម្រាល</b>\n- 🧼 <b>ជូតសំអាត កម្រាលដោយប្រើទឹក</b>\n- 🚽 <b>លាងសំអាត បន្ទប់ទឹក ដែលប្រើ</b>\n\n🔥 <b>Metra Fighting!!! 💪💪💪</b>\n\n📌 <i>ចំណាំ៖ ធ្វើ ថ្ងៃសៅរ៏ ក៏បាន ថ្ងៃអាទិត្យ ក៏បាន។</i>",
+    "botKey": "",
+    "chatId": "-4643371102"
+}
             ],
             "status": true
         }
